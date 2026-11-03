@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lectronics
 - 👀 I’m interested in Electronics Engineering and Mechanical Engineering specifically if it has to do with cars, motorcycles, or audio.
-- 🌱 I’m currently learning Electro-Mechanical Engineering
+- 🌱 I'm Currently pursuing a degree in Electrical Engineering with the goal of designing specialty PCBs for dual-signal and RF applications.
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...---!>
 
